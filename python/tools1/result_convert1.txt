@@ -1,0 +1,12 @@
+1 metre = 100.0 cm
+1 cm = 0.01 metre
+
+1 km = 0.625 miles
+1 miles = 1.6 km
+
+1 gallon = 4.5 litres
+1 litres = 0.222222222222 gallon
+
+1 grams = 0.001 kg
+1 kg = 1000.0 grams
+
